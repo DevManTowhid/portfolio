@@ -19,7 +19,7 @@ export default function Home() {
             {/* Profile Image */}
             <div className="w-32 h-32 mb-4">
               <img
-                src="../images/my pic2.jpg" // Replace with your image path
+                src="images/my pic2.jpg" // Replace with your image path
                 alt="Your Name"
                 className="w-full h-full rounded-full object-cover"
               />
